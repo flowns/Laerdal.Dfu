@@ -1,3 +1,5 @@
+This library has been forked from the original version created by François Raminosona in order to make fixes to support Maui and .NET 8.
+
 # Laerdal.Dfu
 
 This is an Xamarin binding library for the Nordic Semiconductors Android library for updating the firmware of their devices over the air via Bluetooth Low Energy.
